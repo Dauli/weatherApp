@@ -1,0 +1,12 @@
+@media screen and (max-width: 500px) {
+	h1, h2, h3 {
+		font-size: 30px;
+	}
+	.city {
+		display: block;
+		margin-bottom: 30px;
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
