@@ -116,7 +116,7 @@ function upgradeBackground(descrip) {
 		} else {
 			document.body.style.background = "lightgrey";
 		}
-	} else if (hour > 18 && hour < 5) {
+	} else {
 		document.body.style.backgroundImage = "url('images/night_sky.jpg')";
 		document.getElementById("h2").style.color = "blue";
 	}
